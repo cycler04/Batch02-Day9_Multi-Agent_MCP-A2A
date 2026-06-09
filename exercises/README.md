@@ -86,6 +86,15 @@ Tạo tool gọi API thực (ví dụ: tra cứu luật từ database online).
 ### Challenge 4: Error Handling
 Thêm try-catch và retry logic khi tool fails.
 
+### Challenge 5: Advanced Demo (đã có sẵn)
+File: `exercise_5_advanced.py`
+Mục tiêu: demo `financial_agent`, conversation memory và retry logic trong một script thực tế.
+
+Chạy:
+```bash
+uv run python exercises/exercise_5_advanced.py
+```
+
 ---
 
 ## Câu Hỏi Thường Gặp
